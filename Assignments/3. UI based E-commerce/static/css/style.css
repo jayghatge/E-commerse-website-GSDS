@@ -1,0 +1,25 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+#product-form {
+    max-width: 500px;
+    margin: auto;
+}
+
+.add-to-cart-btn {
+    width: 100%;
+}
+
+#cart-list {
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px; /* Adjust margin for card items */
+}
